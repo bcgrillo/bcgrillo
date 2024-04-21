@@ -31,11 +31,9 @@ Hello there! 👋 I'm Bruno, an experienced Software Engineer and Development Ma
 
 - **Universidad Politécnica de Madrid** Madrid, Spain  
   Bachelor of Science in Software Engineering / 2011 - 2016  
-  **Average Grade:** 8.5 / 10 with 10 honors  
 
 - **I.E.S. Bellaguarda** Altea, Spain
-  Higher Technical Certificate / 2008 - 2010  
-  **Average Grade:** 9.75  
+  Certificate of Higher Education / 2008 - 2010  
 
 ## Languages 🗣️
 
