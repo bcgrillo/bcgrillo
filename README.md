@@ -6,7 +6,7 @@ Hello there! 👋 I'm Bruno, an experienced Software Engineer and Development Ma
 
 - 📧 Email: [Write me here](https://bcgrillo.github.io/contacto)
 - 🔗 LinkedIn: [Bruno Grillo](https://www.linkedin.com/in/bcgrillo)
-- 🌍 Personal Website: [bcgrillo.github.io](https://bcgrillo.github.io)
+- 🌍 Personal Website: [bcgrillo.github.io](https://brunogrillo.dev)
 - 📝 Blog: [lanalua.github.io/bcgrillo](https://lanalua.github.io/bcgrillo)
 
 ## Skills 🛠️
@@ -49,9 +49,9 @@ Below are some of my notable certifications:
 
 - **Curso de Arquitectura Limpia con .NET** OpenWebinars, Issued Sept 2022 [Link](https://openwebinars.net/cert/dym59)
 
-- **Angular for Beginners Course** Udemy, Issued Jul 2022 [Link](https://www.udemy.com/certificate/UC-d8aac3de-55d6-406d-b332-5b8a3de83894/)
-
 - **Scrum Master** EuropeanScrum.org, Issued Jan 2021 [Link](https://www.europeanscrum.org/european-scrum-bruno-camilo-grillo.html)
+
+- **Angular for Beginners Course** Udemy, Issued Jul 2022
 
 - **Introducción al Business Intelligence y al Big Data** Miríada X (Universitat Oberta de Catalunya), Issued May 2017
 
