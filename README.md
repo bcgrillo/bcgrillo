@@ -6,7 +6,7 @@ Hello there! 👋 I'm Bruno, an experienced Software Engineer and Development Ma
 
 - 📧 Email: [Write me here](https://bcgrillo.github.io/contacto)
 - 🔗 LinkedIn: [Bruno Grillo](https://www.linkedin.com/in/bcgrillo)
-- 🌍 Personal Website: [bcgrillo.github.io](https://brunogrillo.dev)
+- 🌍 Personal Website: [brunogrillo.dev](https://brunogrillo.dev)
 - 📝 Blog: [lanalua.github.io/bcgrillo](https://lanalua.github.io/bcgrillo)
 
 ## Skills 🛠️
