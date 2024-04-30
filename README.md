@@ -8,6 +8,7 @@ Hello there! 👋 I'm Bruno, an experienced Software Engineer and Development Ma
 - 🔗 LinkedIn: [Bruno Grillo](https://www.linkedin.com/in/bcgrillo)
 - 🌍 Personal Website: [brunogrillo.dev](https://brunogrillo.dev)
 - 📝 Blog: [lanalua.github.io/bcgrillo](https://lanalua.github.io/bcgrillo)
+- 🏅 MS Learn: [bcgrillo](https://learn.microsoft.com/en-gb/users/bcgrillo)
 
 ## Skills 🛠️
 
@@ -43,7 +44,9 @@ Hello there! 👋 I'm Bruno, an experienced Software Engineer and Development Ma
 
 ## Certifications 🏅
 
-Below are some of my notable certifications:
+Below are some of my notable certifications and courses:
+
+- **AI Skills Challenge** Microsoft, Issued Apr 2024 [Link](https://learn.microsoft.com/api/achievements/share/en-gb/bcgrillo/D6CYWPSJ?sharingId=38C9F5112BFF0530)
 
 - **Elements of AI** University of Helsinki, Issued Oct 2022 [Link](https://certificates.mooc.fi/validate/znsmgkhfxs)
 
